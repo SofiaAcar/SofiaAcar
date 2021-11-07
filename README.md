@@ -8,7 +8,7 @@
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/sacarnote4)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:sacarnote4@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@sacarnote4)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username="SofiaAcar" alt="SofiaAcar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SofiaAcar" alt="SofiaAcar" /> </p>
 
 ## 💻 Data Visualization
 
