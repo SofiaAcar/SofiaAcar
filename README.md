@@ -8,10 +8,6 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:sacarnote4@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@sacarnote4)
 <a href="(https://public.tableau.com/app/profile/safiyye.acar" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
-
-
-<a href="(https://www.datacamp.com/profile/sacarnote4" target="_blank"> <img src="https://giphy.com/gifs/hFetNJJfWGKgjqy4LF" alt="DataCamp" height="30"/> </a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SofiaAcar" alt="SofiaAcar" /> </p>
 
 ## 💻 Data Visualization
