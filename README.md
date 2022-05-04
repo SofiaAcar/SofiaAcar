@@ -10,7 +10,7 @@
 <a href="(https://public.tableau.com/app/profile/safiyye.acar" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
 
 
-<a href="(https://public.tableau.com/app/profile/safiyye.acar" target="_blank"> <img src="https://giphy.com/gifs/hFetNJJfWGKgjqy4LF" alt="DataCamp" height="30"/> </a>
+<a href="(https://www.datacamp.com/profile/sacarnote4" target="_blank"> <img src="https://giphy.com/gifs/hFetNJJfWGKgjqy4LF" alt="DataCamp" height="30"/> </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SofiaAcar" alt="SofiaAcar" /> </p>
 
